@@ -1,0 +1,24 @@
+Project title:
+
+An exploratory study of the security for IoT devices
+
+Abstract/Description of Project Idea:
+The number of devices connected to the internet reached 22 billion worldwide at the end of 2018, 
+according to the latest research from Strategy Analytics, and it is estimated to amount to 75.44 billion worldwide by 2025.
+Nowadays the number of attacks continues to grow because more things are connected to the internet and that makes vulnerabilities
+continue to rise and because of that the security measures need to be considered across all objects/devices and network. 
+As a design and implementation of smart house, the latest version of Cisco packet tracer (Version 7.2.2) will be use that includes
+different smart objects/devices for home automation such as smart fan, smart window, smart door, smart light, smart fridge, 
+smart coffee machine, and different sensors are included.
+To control these smart devices and sensors, a microcontroller and home Gateway will be used, since it provides a programming environment 
+for controlling smart objects that are connected to it and provide controlling mechanisms by registering all smart devices to 
+the home Gateway.
+this project will also carry out the task to secure the network that is comprised of devices available in a smart house network and 
+all the individual devices that are connected to the internet because if one of the devices is getting hacked by attackers, 
+they can take control over the network and other connected devices. 
+The purpose of this project is to implement a smart home using Cisco packet tracer simulator, to improve home Network and devices security. The goal is to research and find the best security solution for IoT devices in the first semester, deploy and implement it in a virtual environment by using different tools and technology over semester 2.
+ 
+
+•	Identify the most used methods for security of IoT devices.
+•	Identify the most used protocols for IoT devices
+•	identifying vulnerabilities of IoT devices.
